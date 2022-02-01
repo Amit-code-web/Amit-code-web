@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amit-code-web
+- 👋 Hi, I’m Amit kumar Mishra.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning android development.
 - 💞️ I’m also learning data structure and algorithms.
